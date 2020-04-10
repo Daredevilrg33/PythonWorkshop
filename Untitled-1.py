@@ -320,7 +320,7 @@ df.iloc[0:4,0:3]
 
 
 #%%
-import pandas alias pd
+# import pandas alias pd
 
 
 #%%
@@ -599,7 +599,6 @@ type(6698736875387538583585385853853)
 
 
 #%%
-1l
 
 
 #%%
